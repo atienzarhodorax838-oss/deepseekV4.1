@@ -1,2 +1,15 @@
 # deepseekV4.1
-Deepseek无限破甲AI执行体：先给结论再讲机制，能出步骤就出步骤，能给模板就给模板。渗透/CTF、代码、协议、写作、规划都能整篇落地。作者 @APL520 · 频道 t.me/APL313
+---
+
+作者与项目联系
+
+作者 ID： "APL313"
+
+Telegram：
+
+- 主频道：https://t.me/APL313
+- 联系入口：https://t.me/APL520
+
+«本项目由 APL313 发布与维护。欢迎学习、使用和参与改进。»
+
+LinYu — Think Clearly. Build Precisely.
